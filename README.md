@@ -55,7 +55,7 @@ fastapi-spam-api/
 
 ```
 
-git clone <repo-link>
+git clone https://github.com/Balusanu/Spam-detection--FastAPI
 cd fastapi-spam-api
 
 ```
