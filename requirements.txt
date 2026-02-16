@@ -1,7 +1,5 @@
-streamlit
 fastapi
 uvicorn
 scikit-learn
 xgboost
 pandas
-requests
